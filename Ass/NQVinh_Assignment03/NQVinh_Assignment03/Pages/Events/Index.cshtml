@@ -1,0 +1,118 @@
+﻿@page
+@model NQVinh_Assignment03.Pages.Events.IndexModel
+<h1>Events</h1>
+
+                        <a asp-page="/Users/Index" >View User</a>
+
+                 <p><a asp-page="/Index1" >Report</a>   </p>
+
+<p>
+    <a asp-page="Create">Create New Event</a>
+</p>
+<form asp-page="./Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by title:
+            <input type="text" name="SearchString" value="@Model.CurrentFilter" />
+            <input type="submit" value="Search" class="btn btn-primary" /> |
+            <a asp-page="./Index">Back to full List</a>
+        </p>
+        <p>
+            Filter by date:
+            From: <input type="date" name="StartDate" value="@Model.StartDateFilter" />
+            To: <input type="date" name="EndDate" value="@Model.EndDateFilter" />
+            <input type="submit" value="Filter" class="btn btn-primary" />
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.TitleSort">
+                    Title
+                </a>
+            </th>
+            <th>
+                <a asp-page="./Index" asp-route-sortOrder="@Model.StartTimeSort">
+                    Start Time
+                </a>
+            </th>
+            <th>
+                End Time
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Location
+            </th>
+            <th>
+                Category
+            </th>
+            <th>
+                Count
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Events)
+        {
+                <tr>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.StartTime)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.EndTime)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.Location)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.CategoryId)
+                    </td>
+                    <td>
+                    @Html.DisplayFor(modelItem => item.Attendees.Count)
+                    </td>
+                    <td>
+                        <a asp-page="./Edit" asp-route-id="@item.EventId">Edit</a> |
+                        <a asp-page="./Details" asp-route-id="@item.EventId">Details</a> |
+                        <a asp-page="./Delete" asp-route-id="@item.EventId">Delete</a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    var prevDisabled = !Model.Events.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.Events.HasNextPage ? "disabled" : "";
+}
+
+<a asp-page="./Index"
+   asp-route-sortOrder="@Model.CurrentSort"
+   asp-route-pageIndex="@(Model.Events.PageIndex - 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   asp-route-startDate="@Model.StartDateFilter"
+   asp-route-endDate="@Model.EndDateFilter"
+   class="btn btn-primary @prevDisabled">
+    Previous
+</a>
+<a asp-page="./Index"
+   asp-route-sortOrder="@Model.CurrentSort"
+   asp-route-pageIndex="@(Model.Events.PageIndex + 1)"
+   asp-route-currentFilter="@Model.CurrentFilter"
+   asp-route-startDate="@Model.StartDateFilter"
+   asp-route-endDate="@Model.EndDateFilter"
+   class="btn btn-primary @nextDisabled">
+    Next
+</a>
+<script src="~/js/site.js"></script>
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>

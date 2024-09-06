@@ -1,0 +1,46 @@
+﻿<Window x:Class="Assingment1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assingment1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel Margin="0,0,0,-50">
+                <StackPanel Width="400" Height="Auto"  Background="#FF39E5E5" HorizontalAlignment="Left">
+                    <Label Content="Room ID"/>
+                    <TextBox x:Name="txtRoomID" TextWrapping="Wrap"  Width="400" Text="{Binding Id}" DataContext="{Binding SelectedItem, ElementName=lvRooms}" />
+                    <Label Content="Room Type"/>
+                    <TextBox TextWrapping="Wrap"  Width="400" x:Name="txtRoomType" Text="{Binding Type}" DataContext="{Binding SelectedItem, ElementName=lvRooms}"/>
+                    <Label  Content="Status"/>
+                    <StackPanel Height="31" Orientation="Horizontal">
+                        <RadioButton Content="Not set" IsChecked="True" x:Name="rbNotSet"/>
+                        <RadioButton Content="Booked room" Margin="10,0,0,0" x:Name="rbBooked"/>
+                        <RadioButton Content="The room is occupied" Margin="10,0,0,0" x:Name="rbBooking"/>
+                    </StackPanel>
+                    <Label Content="Price"/>
+                    <TextBox x:Name="txtPrice" TextWrapping="Wrap"  Width="400" Text="{Binding Idnumber}" DataContext="{Binding SelectedItem, ElementName=lvRooms}" />
+                    <StackPanel Height="43" Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button x:Name="btnRefresh" Content="Refresh" Width="90" Padding="-1,1,1,1" Margin="5,5,0,5" BorderThickness="2,1,1,1" Click="btnRefresh_Click" />
+                        <Button x:Name="btnAdd" Content="Add" Width="90" Padding="-1,1,1,1" Margin="5,5,0,5" BorderThickness="2,1,1,1" Click="btnAdd_Click" />
+                        <Button x:Name="btnEdit" Content="Edit" Width="90" Padding="-1,1,1,1" Margin="5,5,0,5" BorderThickness="2,1,1,1" Click="btnEdit_Click" />
+                        <Button x:Name="btnDelete" Content="Delete" Width="90" Padding="-1,1,1,1" Margin="5,5,0,5" BorderThickness="2,1,1,1" Click="btnDelete_Click" />
+                    </StackPanel>
+                </StackPanel>
+                <ListView x:Name="lvRooms" Height="Auto" HorizontalAlignment="Center" PreviewMouseLeftButtonUp="lvRoom_Click" Width="752">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Room ID" Width="90" DisplayMemberBinding="{Binding Id}"/>
+                            <GridViewColumn Header="Room type" Width="200" DisplayMemberBinding="{Binding Type}" />
+                            <GridViewColumn Header="Status" Width="150" DisplayMemberBinding="{Binding Status}"/>
+                            <GridViewColumn Header="Price" Width="300" DisplayMemberBinding="{Binding Price}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

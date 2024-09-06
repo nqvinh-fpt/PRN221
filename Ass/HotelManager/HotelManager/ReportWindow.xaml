@@ -1,0 +1,40 @@
+﻿<Window x:Class="HotelManager.ReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelManager"
+        mc:Ignorable="d"
+        Title="ReportWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" Height="434">
+            <Label HorizontalAlignment="Center" Content="Hotel Manager" FontSize="24" FontWeight="Bold" Foreground="Red"/>
+            <StackPanel HorizontalAlignment="Left" Width="797" Orientation="Horizontal" Height="36">
+                <Button x:Name="btnBookingMN" Content="Booking Manager" Width="247" Padding="-1,1,1,1" BorderThickness="2,1,1,1"  Height="26" Click="btnBookingMN_Click_1" Margin="10,0,10,0" />
+                <Button x:Name="btncustomerMN" Content="Customer Manager" Width="248" Padding="-1,1,1,1" BorderThickness="2,1,1,1" Margin="10,0,10,0" Height="28" Click="btncustomerMN_Click" />
+                <Button x:Name="btnRoomMN" Content="Room Manager" Width="247" Padding="-1,1,1,1" BorderThickness="2,1,1,1" Margin="10,0,10,0" Height="28" Click="btnRoomMN_Click" />
+            </StackPanel>
+            <ListView x:Name="lvRooms" Height="Auto" HorizontalAlignment="Center"  Width="752">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Room ID" Width="90" DisplayMemberBinding="{Binding RoomId}"/>
+                        <GridViewColumn Header="Room type" Width="200" DisplayMemberBinding="{Binding RoomType}" />
+                        <GridViewColumn Header="Status" Width="150" DisplayMemberBinding="{Binding Status}"/>
+                        <GridViewColumn Header="Price" Width="300" DisplayMemberBinding="{Binding Price}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <ListView x:Name="lvCustomer" Height="Auto" HorizontalAlignment="Center"  Width="752">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Customer ID" Width="90" DisplayMemberBinding="{Binding CustomerId}"/>
+                        <GridViewColumn Header="Name" Width="200" DisplayMemberBinding="{Binding Name}" />
+                        <GridViewColumn Header="Phone Number" Width="150" DisplayMemberBinding="{Binding PhoneNumber}"/>
+                        <GridViewColumn Header="Email" Width="100" DisplayMemberBinding="{Binding Email}"/>
+                        <GridViewColumn Header="Address" Width="200" DisplayMemberBinding="{Binding Address}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Window>

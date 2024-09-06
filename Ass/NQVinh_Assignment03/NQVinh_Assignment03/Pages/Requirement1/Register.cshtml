@@ -1,0 +1,18 @@
+﻿@page
+@model NQVinh_Assignment03.Pages.Requirement1.RegisterModel
+<h1>Event Registration</h1>
+
+<form method="post">
+    <div>
+        <label>Name:</label>
+        <input asp-for="Attendee.Name" />
+        <span asp-validation-for="Attendee.Name"></span>
+    </div>
+    <div>
+        <label>Email:</label>
+        <input asp-for="Attendee.Email" />
+        <span asp-validation-for="Attendee.Email"></span>
+    </div>
+    <input type="hidden" asp-for="Attendee.EventId" />
+    <button type="submit">Register</button>
+</form>

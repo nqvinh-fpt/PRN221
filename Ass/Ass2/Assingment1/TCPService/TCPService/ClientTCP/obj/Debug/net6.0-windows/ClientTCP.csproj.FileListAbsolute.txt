@@ -1,0 +1,4 @@
+D:\Spring2024\prn221\Ass\Ass2\Assingment1\TCPService\TCPService\ClientTCP\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Spring2024\prn221\Ass\Ass2\Assingment1\TCPService\TCPService\ClientTCP\obj\Debug\net6.0-windows\App.g.cs
+D:\Spring2024\prn221\Ass\Ass2\Assingment1\TCPService\TCPService\ClientTCP\obj\Debug\net6.0-windows\ClientTCP_MarkupCompile.cache
+D:\Spring2024\prn221\Ass\Ass2\Assingment1\TCPService\TCPService\ClientTCP\obj\Debug\net6.0-windows\ClientTCP_MarkupCompile.lref

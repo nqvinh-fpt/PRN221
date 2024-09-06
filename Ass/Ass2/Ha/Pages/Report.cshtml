@@ -1,0 +1,28 @@
+﻿@page
+@model Ha.Pages.ReportModel
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                Count
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Events)
+        {
+            <tr>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @item.Attendees.Count
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

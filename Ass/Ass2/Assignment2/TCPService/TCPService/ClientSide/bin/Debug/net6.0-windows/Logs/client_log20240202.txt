@@ -1,0 +1,302 @@
+2024-02-02 01:36:55.375 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 116
+2024-02-02 01:36:57.538 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 116
+2024-02-02 01:37:50.859 +07:00 [INF] Connected to the server
+2024-02-02 01:37:54.619 +07:00 [INF] Received: Admin: Admin1 - Content: a - Time: (1:37:54 AM)
+2024-02-02 01:38:03.658 +07:00 [INF] Sent: Username: ha - Content: a - Time: (1:38:03 AM)
+2024-02-02 01:38:03.662 +07:00 [INF] Received: Server received: Username: ha - Content: a - Time: (1:38:03 AM)
+2024-02-02 01:54:27.269 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 116
+2024-02-02 01:54:29.388 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 116
+2024-02-02 01:55:11.714 +07:00 [INF] Connected to the server
+2024-02-02 01:55:17.043 +07:00 [INF] Received: Admin: Admin1 - Content: a - Time: (1:55:17 AM)
+2024-02-02 02:08:55.840 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 117
+2024-02-02 02:08:58.230 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 117
+2024-02-02 02:09:35.540 +07:00 [INF] Connected to the server
+2024-02-02 02:10:25.334 +07:00 [INF] Connected to the server
+2024-02-02 02:10:28.509 +07:00 [INF] Sent: Username: ha - Content: a - Time: (2:10:28 AM)
+2024-02-02 02:11:10.969 +07:00 [INF] Connected to the server
+2024-02-02 02:11:14.414 +07:00 [INF] Sent: Username: ha - Content: a - Time: (2:11:14 AM)
+2024-02-02 02:14:35.800 +07:00 [INF] Connected to the server
+2024-02-02 02:14:44.579 +07:00 [INF] Sent: Username: ha - Content: a - Time: (2:14:44 AM)
+2024-02-02 02:16:21.037 +07:00 [INF] Connected to the server
+2024-02-02 02:16:23.805 +07:00 [INF] Sent: Username: ha - Content: a - Time: (2:16:23 AM)
+2024-02-02 02:18:52.590 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 117
+2024-02-02 02:18:54.796 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 117
+2024-02-02 02:19:01.802 +07:00 [INF] Connected to the server
+2024-02-02 02:19:03.894 +07:00 [INF] Sent: Username: ha - Content: a - Time: (2:19:03 AM)
+2024-02-02 02:23:03.287 +07:00 [INF] Connected to the server
+2024-02-02 02:23:05.798 +07:00 [INF] Sent: Username: ha - Content: a - Time: (2:23:05 AM)
+2024-02-02 02:26:03.960 +07:00 [INF] Connected to the server
+2024-02-02 02:26:06.699 +07:00 [INF] Sent: Username: ha - Content: a - Time: (2:26:06 AM)
+2024-02-02 02:26:51.445 +07:00 [INF] Connected to the server
+2024-02-02 02:26:54.810 +07:00 [INF] Sent: Username: ha - Content: a - Time: (2:26:54 AM)
+2024-02-02 02:27:22.806 +07:00 [INF] Connected to the server
+2024-02-02 02:27:26.620 +07:00 [INF] Sent: Username: ha - Content: h - Time: (2:27:26 AM)
+2024-02-02 02:31:00.991 +07:00 [INF] Connected to the server
+2024-02-02 02:31:03.376 +07:00 [INF] Sent: Username: ha - Content: j - Time: (2:31:03 AM)
+2024-02-02 03:04:39.755 +07:00 [INF] Connected to the server
+2024-02-02 03:04:42.169 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:04:42 AM)
+2024-02-02 03:12:26.709 +07:00 [INF] Connected to the server
+2024-02-02 03:12:28.984 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:12:28 AM)
+2024-02-02 03:13:28.066 +07:00 [INF] Connected to the server
+2024-02-02 03:13:35.777 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:13:35 AM)
+2024-02-02 03:15:08.477 +07:00 [INF] Connected to the server
+2024-02-02 03:15:10.650 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:15:10 AM)
+2024-02-02 03:15:10.652 +07:00 [ERR] Error occurred
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at ClientSide.Login.ReceiveMessages() in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 62
+2024-02-02 03:15:23.180 +07:00 [INF] Connected to the server
+2024-02-02 03:15:26.695 +07:00 [INF] Sent: Username: ha - Content: aa - Time: (3:15:26 AM)
+2024-02-02 03:15:51.462 +07:00 [ERR] Error sending message
+System.IO.IOException: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at ClientSide.Login.SendMessageButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 146
+2024-02-02 03:15:55.722 +07:00 [INF] Connected to the server
+2024-02-02 03:15:56.980 +07:00 [INF] Sent: Username: ha - Content: aa - Time: (3:15:56 AM)
+2024-02-02 03:18:59.025 +07:00 [INF] Connected to the server
+2024-02-02 03:19:00.892 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:19:00 AM)
+2024-02-02 03:24:20.233 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 113
+2024-02-02 03:24:22.321 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 113
+2024-02-02 03:24:24.393 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 113
+2024-02-02 03:25:21.661 +07:00 [INF] Connected to the server
+2024-02-02 03:25:24.068 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:25:24 AM)
+2024-02-02 03:26:10.772 +07:00 [INF] Connected to the server
+2024-02-02 03:26:15.451 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:26:15 AM)
+2024-02-02 03:26:15.452 +07:00 [ERR] Error occurred
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at ClientSide.Login.ReceiveMessages() in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 62
+2024-02-02 03:27:46.374 +07:00 [INF] Connected to the server
+2024-02-02 03:29:20.524 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 113
+2024-02-02 03:29:22.572 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 113
+2024-02-02 03:29:24.625 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 113
+2024-02-02 03:29:26.669 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 113
+2024-02-02 03:30:19.380 +07:00 [INF] Connected to the server
+2024-02-02 03:30:22.911 +07:00 [INF] Received: Admin: Admin1 - Content: a - Time: (3:30:22 AM)
+2024-02-02 03:30:34.459 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:30:34 AM)
+2024-02-02 03:30:34.460 +07:00 [ERR] Error occurred
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at ClientSide.Login.ReceiveMessages() in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 62
+2024-02-02 03:31:08.968 +07:00 [INF] Connected to the server
+2024-02-02 03:31:13.758 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:31:13 AM)
+2024-02-02 03:31:24.660 +07:00 [INF] Connected to the server
+2024-02-02 03:31:27.912 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:31:27 AM)
+2024-02-02 03:32:43.999 +07:00 [INF] Connected to the server
+2024-02-02 03:33:17.322 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:33:17 AM)
+2024-02-02 03:33:18.274 +07:00 [ERR] Error sending message
+System.IO.IOException: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at ClientSide.Login.SendMessageButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 149
+2024-02-02 03:35:08.777 +07:00 [INF] Connected to the server
+2024-02-02 03:35:13.363 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:35:13 AM)
+2024-02-02 03:35:13.365 +07:00 [ERR] Error occurred
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at ClientSide.Login.ReceiveMessages() in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 62
+2024-02-02 03:36:11.091 +07:00 [INF] Connected to the server
+2024-02-02 03:36:24.358 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:36:24 AM)
+2024-02-02 03:36:31.077 +07:00 [ERR] Error sending message
+System.IO.IOException: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at ClientSide.Login.SendMessageButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 149
+2024-02-02 03:38:55.021 +07:00 [INF] Connected to the server
+2024-02-02 03:38:56.120 +07:00 [INF] Connected to the server
+2024-02-02 03:38:58.792 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:38:58 AM)
+2024-02-02 03:48:08.691 +07:00 [INF] Connected to the server
+2024-02-02 03:48:12.322 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:48:12 AM)
+2024-02-02 03:48:45.697 +07:00 [INF] Connected to the server
+2024-02-02 03:48:48.953 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:48:48 AM)
+2024-02-02 03:51:45.537 +07:00 [INF] Connected to the server
+2024-02-02 03:51:48.461 +07:00 [INF] Sent: Username: ha - Content: a - Time: (3:51:48 AM)
+2024-02-02 03:51:48.472 +07:00 [ERR] Error occurred
+System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at ClientSide.Login.ReceiveMessages() in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 61
+2024-02-02 04:02:07.699 +07:00 [INF] Connected to the server
+2024-02-02 04:02:10.289 +07:00 [INF] Sent: Username: ha - Content: a - Time: (4:02:10 AM)
+2024-02-02 04:02:10.299 +07:00 [INF] Received: Server received: Username: ha - Content: a - Time: (4:02:10 AM)
+2024-02-02 04:02:19.819 +07:00 [INF] Received: Admin: a - Time: 4:02:19 AM
+2024-02-02 12:52:02.791 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 109
+2024-02-02 12:52:05.123 +07:00 [ERR] Error connecting to the server
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:13000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at ClientSide.Login.ConnectButton_Click(Object sender, RoutedEventArgs e) in D:\KY7\TCPService\ClientSide\Login.xaml.cs:line 109
+2024-02-02 12:52:52.568 +07:00 [INF] Connected to the server
+2024-02-02 12:52:56.228 +07:00 [INF] Sent: Username: ha - Content: aaa - Time: (12:52:56 PM)
+2024-02-02 12:52:56.243 +07:00 [INF] Received: Server received: Username: ha - Content: aaa - Time: (12:52:56 PM)
+2024-02-02 12:53:12.569 +07:00 [INF] Received: Admin: aaaaa - Time: 12:53:12 PM

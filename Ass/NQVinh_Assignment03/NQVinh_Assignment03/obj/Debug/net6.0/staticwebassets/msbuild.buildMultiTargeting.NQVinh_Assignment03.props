@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NQVinh_Assignment03.props" />
+</Project>

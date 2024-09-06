@@ -1,0 +1,18 @@
+﻿@page
+@model Question2.Pages.Schedule.ByDateModel
+@{
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+
+<form method="get">
+    <div class="d-flex">
+        <p class="me-5">Room</p>
+ 
+        <input type="datetime" name="date" />
+    </div>
+    <div>
+        <button type="submit" class="btn btn-secondary">Search</button>
+    </div>
+</form>

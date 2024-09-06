@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sAnZt+J2Av+06+IgE4GslzCMi/PEMxphHIrfk9+MX8LYzFSDUB6pUkouvrb2NoneKOCZlNGhuMNrKpuZKNi80A==",
+  "success": true,
+  "projectFilePath": "D:\\Spring2024\\prn221\\demo\\DependencyInjectionInNET\\DIMethodInjectionPatternDemo\\DIMethodInjectionPatternDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinh1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\vinh1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

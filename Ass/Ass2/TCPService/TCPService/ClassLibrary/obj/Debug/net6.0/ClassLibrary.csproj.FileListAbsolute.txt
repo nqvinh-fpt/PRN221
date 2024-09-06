@@ -1,0 +1,11 @@
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+D:\Spring2024\prn221\Ass\Ass2\TCPService\TCPService\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll

@@ -1,0 +1,14 @@
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\bin\Debug\net6.0\4_NguyenQuangVinh_Slot2.exe
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\bin\Debug\net6.0\4_NguyenQuangVinh_Slot2.deps.json
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\bin\Debug\net6.0\4_NguyenQuangVinh_Slot2.runtimeconfig.json
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\bin\Debug\net6.0\4_NguyenQuangVinh_Slot2.dll
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\bin\Debug\net6.0\4_NguyenQuangVinh_Slot2.pdb
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\4_NguyenQuangVinh_Slot2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\4_NguyenQuangVinh_Slot2.AssemblyInfoInputs.cache
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\4_NguyenQuangVinh_Slot2.AssemblyInfo.cs
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\4_NguyenQuangVinh_Slot2.csproj.CoreCompileInputs.cache
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\4_NguyenQuangVinh_Slot2.dll
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\refint\4_NguyenQuangVinh_Slot2.dll
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\4_NguyenQuangVinh_Slot2.pdb
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\4_NguyenQuangVinh_Slot2.genruntimeconfig.cache
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\demo\4_NguyenQuangVinh_Slot2\4_NguyenQuangVinh_Slot2\obj\Debug\net6.0\ref\4_NguyenQuangVinh_Slot2.dll

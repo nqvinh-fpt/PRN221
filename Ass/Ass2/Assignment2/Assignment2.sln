@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2", "Assignment2\Assignment2.csproj", "{AC02594F-894A-43A2-9636-E340AAC14DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{1927FA19-1812-456D-B6F0-BBF8FF027E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPSever", "TCPSever\TCPSever.csproj", "{0431EF67-5C2B-40AD-9709-0DAC7258B2A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC02594F-894A-43A2-9636-E340AAC14DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC02594F-894A-43A2-9636-E340AAC14DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC02594F-894A-43A2-9636-E340AAC14DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC02594F-894A-43A2-9636-E340AAC14DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1927FA19-1812-456D-B6F0-BBF8FF027E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1927FA19-1812-456D-B6F0-BBF8FF027E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1927FA19-1812-456D-B6F0-BBF8FF027E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1927FA19-1812-456D-B6F0-BBF8FF027E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0431EF67-5C2B-40AD-9709-0DAC7258B2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0431EF67-5C2B-40AD-9709-0DAC7258B2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0431EF67-5C2B-40AD-9709-0DAC7258B2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0431EF67-5C2B-40AD-9709-0DAC7258B2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4128A95E-B3E7-4ABE-A098-3FD8E95D8114}
+	EndGlobalSection
+EndGlobal

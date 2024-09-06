@@ -1,0 +1,39 @@
+﻿@page
+@model ConfirmRequestsModel
+
+<h1>Confirm User Registration Requests</h1>
+
+@if (Model.UserRequests.Count == 0)
+{
+    <p>No new user registration requests.</p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var request in Model.UserRequests)
+            {
+                <tr>
+                    <td>@request.Username</td>
+                    <td>@request.FullName</td>
+                    <td>@request.Email</td>
+                    <td>
+                        <form method="post">
+                            <input type="hidden" name="UserId" value="@request.UserId" />
+                            <button type="submit" name="confirm" value="true">Confirm</button>
+                            <button type="submit" name="confirm" value="false">Reject</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

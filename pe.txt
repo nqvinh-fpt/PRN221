@@ -1,0 +1,117 @@
+SaveFileDialog saveFileDialog = new SaveFileDialog();
+saveFileDialog.DefaultExt = ".txt";
+saveFileDialog.Filter = "Text Files (*.txt)|*.txt|All Files (*.*)|*.*";
+
+if (saveFileDialog.ShowDialog() == true)
+{
+    // Assuming 'context' is your Entity Framework DbContext
+    List<Product> productList = context.Products.ToList();
+    
+    // Removing navigation property to avoid circular reference
+    productList.ForEach(x =>
+    {
+        x.Category = null;
+    });
+    
+    // Prepare the text content
+    StringBuilder textContent = new StringBuilder();
+    foreach (var product in productList)
+    {
+        textContent.AppendLine($"Name: {product.Name}, Price: {product.Price}");
+    }
+    
+    // Write the text content to the selected file
+    File.WriteAllText(saveFileDialog.FileName, textContent.ToString());
+    
+    MessageBox.Show("File saved successfully.");
+}
+
+---load
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Windows.Forms;
+
+namespace YourNamespace
+{
+    public partial class YourForm : Form
+    {
+        public YourForm()
+        {
+            InitializeComponent();
+        }
+
+        private void LoadDataFromFile(string filePath)
+        {
+            try
+            {
+                // Read all lines from the text file
+                string[] lines = File.ReadAllLines(filePath);
+
+                // Clear existing rows in DataGridView
+                dataGridView1.Rows.Clear();
+
+                // Add each line as a row in the DataGridView
+                foreach (string line in lines)
+                {
+                    // Split the line based on the separator (assuming comma-separated values)
+                    string[] parts = line.Split(',');
+
+                    // Add a row to the DataGridView using the split parts
+                    dataGridView1.Rows.Add(parts);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnLoadFromFile_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "Text Files (*.txt)|*.txt|All Files (*.*)|*.*";
+
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                string filePath = openFileDialog.FileName;
+                LoadDataFromFile(filePath);
+            }
+        }
+    }
+}
+
+
+
+
+
+
+Grid.RowDefinitions để chia form ra muốn chia to hơn dùng With: 2.*
+StackPanel để xoay chiều dọc hay ngang
+context.Products.Include(x=>x.Category) giog nhu join 2 bang
+- DisplayMemberPath="CategoryName"  de hien thi ra combo box 
+cbCategory.SelectedIndex = 0; de chon cai dau tien
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script> 
+signalr
+
+q2
+add lib:
+builder.Services.AddRazorPages();
+builder.Services.AddSession();
+builder.Services.AddMemoryCache();
+builder.Services.AddSignalR();
+vaof duoi phan app
+app.UseSession();
+app.MapRazorPages();
+app.UseHttpsRedirection();
+app.UseRouting();
+
+- tạo folder Hubs -> tạo class: tên đối tượng + Hub -> kết thừa từ Hub của SignalR(:Hub)
+- add app.MapHub<ProductsHub>("/productHubs"); vàog program
+- chinh launchsetting.json them "launchUrl": "product", vaof profiles (de cho chay truoc trang product)
+- copy code html vao trang view
+- tao list category
+-/products?Category=@item.CategoryId them de goi lay ra category
+- "/products/?handler=addToCart" goi ham addToCart luu session

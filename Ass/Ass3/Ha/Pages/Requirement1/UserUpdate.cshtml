@@ -1,0 +1,43 @@
+﻿@page
+@model Ha.Pages.Requirement1.UserUpdateModel
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Profile</title>
+</head>
+<body>
+    <h1>Update Profile</h1>
+   
+        <form id="userUpdateForm" method="post" asp-page="/Requirement1/UserUpdate" asp-route-userId="@Model.User.UserId" onsubmit="return validateForm()">
+    <div>
+        <label for="FullName">Full Name:</label>
+        <input type="text" id="FullName" name="FullName" value="@Model.User.FullName" />
+    </div>
+    <div>
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" value="@Model.User.Email" />
+    </div>
+    <button type="submit">Update</button>
+</form>
+
+<script>
+    function validateForm() {
+        var fullName = document.getElementById("FullName").value;
+        var email = document.getElementById("Email").value;
+
+        if (fullName.trim() == "") {
+            alert("Please enter your full name.");
+            return false;
+        }
+
+        if (email.trim() == "") {
+            alert("Please enter your email address.");
+            return false;
+        }
+
+        return true;
+    }
+</script>
+
+</body>
+</html>

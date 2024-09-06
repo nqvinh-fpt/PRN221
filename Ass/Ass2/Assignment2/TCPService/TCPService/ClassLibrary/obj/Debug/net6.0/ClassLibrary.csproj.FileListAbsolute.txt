@@ -1,0 +1,14 @@
+D:\KY7\TCPService\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+D:\KY7\TCPService\ClassLibrary\bin\Debug\net6.0\ClassLibrary.runtimeconfig.json
+D:\KY7\TCPService\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+D:\KY7\TCPService\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ClassLibrary.genruntimeconfig.cache
+D:\KY7\TCPService\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll

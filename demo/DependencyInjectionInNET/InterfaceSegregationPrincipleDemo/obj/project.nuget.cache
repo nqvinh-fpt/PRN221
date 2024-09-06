@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6YD35UxKSRZOiONav/OcajFQQVuXo6/2QqPU2rZhBVNHS6lCrfysSP9O3/XTFJWmFKI58oog6O6j0P9wVdUJXg==",
+  "success": true,
+  "projectFilePath": "D:\\Spring2024\\prn221\\demo\\DependencyInjectionInNET\\InterfaceSegregationPrincipleDemo\\InterfaceSegregationPrincipleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinh1\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

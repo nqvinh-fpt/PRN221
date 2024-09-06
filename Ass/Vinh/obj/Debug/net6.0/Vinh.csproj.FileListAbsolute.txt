@@ -1,0 +1,8 @@
+D:\Spring2024\prn221\Ass\Vinh\obj\Debug\net6.0\Vinh.csproj.AssemblyReference.cache
+D:\Spring2024\prn221\Ass\Vinh\obj\Debug\net6.0\Vinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spring2024\prn221\Ass\Vinh\obj\Debug\net6.0\Vinh.AssemblyInfoInputs.cache
+D:\Spring2024\prn221\Ass\Vinh\obj\Debug\net6.0\Vinh.AssemblyInfo.cs
+D:\Spring2024\prn221\Ass\Vinh\obj\Debug\net6.0\Vinh.csproj.CoreCompileInputs.cache
+D:\Spring2024\prn221\Ass\Vinh\obj\Debug\net6.0\Vinh.MvcApplicationPartsAssemblyInfo.cache
+D:\Spring2024\prn221\Ass\Vinh\obj\Debug\net6.0\Vinh.RazorAssemblyInfo.cache
+D:\Spring2024\prn221\Ass\Vinh\obj\Debug\net6.0\Vinh.RazorAssemblyInfo.cs

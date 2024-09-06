@@ -1,0 +1,137 @@
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\appsettings.json
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Q2.staticwebassets.runtime.json
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Q2.exe
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Q2.deps.json
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Q2.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Q2.pdb
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cache
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cs
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets\msbuild.build.Q2.props
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Q2.props
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\scopedcss\bundle\Q2.styles.css
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\scopedcss\projectbundle\Q2.bundle.scp.css
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\refint\Q2.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.pdb
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\ref\Q2.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+C:\Users\vinh1\OneDrive\Máy tính\PEA_Client_Version3_Offline\PE_PRN211_Trial_Su23\PaperNo_1\PE_Hoc\Q2\obj\Debug\net6.0\Q2.csproj.CopyComplete
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\appsettings.Development.json
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\appsettings.json
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Q2.staticwebassets.runtime.json
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Q2.exe
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Q2.deps.json
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Q2.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Q2.pdb
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Humanizer.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cache
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.RazorAssemblyInfo.cs
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets\msbuild.build.Q2.props
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Q2.props
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\scopedcss\bundle\Q2.styles.css
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\scopedcss\projectbundle\Q2.bundle.scp.css
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.csproj.CopyComplete
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\refint\Q2.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.pdb
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\obj\Debug\net6.0\ref\Q2.dll
+D:\Spring2024\prn221\pe\PE_Hoc\Q2\bin\Debug\net6.0\lib\microsoft\signalr\package.json

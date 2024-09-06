@@ -1,0 +1,121 @@
+﻿@page
+@model SignUpModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sign Up</title>
+<style>
+    form {
+        background-color: #fff;
+        padding: 40px;
+        border-radius: 8px;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        width: 300px;
+    }
+    h1 {
+        text-align: center;
+        color: #333;
+    }
+    form div {
+        margin-bottom: 20px;
+    }
+    form label {
+        font-weight: bold;
+        display: block;
+        margin-bottom: 5px;
+        color: #555;
+    }
+    form input[type="text"],
+    form input[type="password"],
+    form input[type="email"],
+    form select {
+        width: calc(100% - 20px);
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    button[type="submit"] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+    }
+    button[type="submit"]:hover {
+        background-color: #45a049;
+    }
+</style>
+</head>
+<body>
+    <form id="signupForm" method="post" onsubmit="return validateForm()">
+    <h1>Sign Up</h1>
+    <div>
+        <label for="Username">Username:</label>
+        <input type="text" id="Username" name="Username" required />
+    </div>
+    <div>
+        <label for="Password">Password:</label>
+        <input type="password" id="Password" name="Password" required />
+    </div>
+    <div>
+        <label for="FullName">Full Name:</label>
+        <input type="text" id="FullName" name="FullName" />
+    </div>
+    <div>
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" required />
+    </div>
+    <div>
+        <label for="Role">Role:</label>
+        <select id="Role" name="Role" required>
+            <option value="">Select Role</option>
+            <option value="Admin">Admin</option>
+            <option value="User">User</option>
+        </select>
+    </div>
+    <a class="nav-link text-red" asp-area="" asp-page="/Requirement1/SignIn">Sign In</a>
+
+    <button type="submit">Sign Up</button>
+</form>
+
+<script>
+    function validateForm() {
+        var username = document.getElementById("Username").value;
+        var password = document.getElementById("Password").value;
+        var email = document.getElementById("Email").value;
+        var role = document.getElementById("Role").value;
+
+        if (username.trim() == "") {
+            alert("Please enter a username.");
+            return false;
+        }
+
+        if (password.trim() == "") {
+            alert("Please enter a password.");
+            return false;
+        }
+
+        if (email.trim() == "") {
+            alert("Please enter an email address.");
+            return false;
+        }
+
+        if (role.trim() == "") {
+            alert("Please select a role.");
+            return false;
+        }
+
+        return true;
+    }
+</script>
+
+</body>
+</html>

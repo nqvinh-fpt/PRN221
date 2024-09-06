@@ -1,0 +1,21 @@
+﻿@page
+@model Ha.Pages.RegisterModel
+
+<!-- HTML form for event registration -->
+<h1>Event Registration</h1>
+
+<form method="post">
+    <div>
+        <label>Name:</label>
+        <input asp-for="Attendee.Name" />
+        <span asp-validation-for="Attendee.Name"></span>
+    </div>
+    <div>
+        <label>Email:</label>
+        <input asp-for="Attendee.Email" />
+        <span asp-validation-for="Attendee.Email"></span>
+    </div>
+    <input type="hidden" asp-for="Attendee.EventId" />
+    <button type="submit">Register</button>
+</form>
+

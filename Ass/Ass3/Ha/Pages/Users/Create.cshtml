@@ -1,0 +1,92 @@
+﻿@page
+@model Ha.Pages.Users.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>User</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form id="createForm" method="post" onsubmit="return validateForm()">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="User.Username" class="control-label"></label>
+        <input asp-for="User.Username" class="form-control" />
+        <span asp-validation-for="User.Username" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="User.Password" class="control-label"></label>
+        <input asp-for="User.Password" class="form-control" />
+        <span asp-validation-for="User.Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="User.FullName" class="control-label"></label>
+        <input asp-for="User.FullName" class="form-control" />
+        <span asp-validation-for="User.FullName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="User.Email" class="control-label"></label>
+        <input asp-for="User.Email" class="form-control" />
+        <span asp-validation-for="User.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="User.Role" class="control-label"></label>
+        <input asp-for="User.Role" class="form-control" />
+        <span asp-validation-for="User.Role" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+
+
+    </div>
+</div>
+<script>
+    function validateForm() {
+        var username = document.getElementById("User_Username").value;
+        var password = document.getElementById("User_Password").value;
+        var fullName = document.getElementById("User_FullName").value;
+        var email = document.getElementById("User_Email").value;
+        var role = document.getElementById("User_Role").value;
+
+        if (username.trim() === "") {
+            alert("Please enter a username.");
+            return false;
+        }
+
+        if (password.trim() === "") {
+            alert("Please enter a password.");
+            return false;
+        }
+
+        if (fullName.trim() === "") {
+            alert("Please enter a full name.");
+            return false;
+        }
+
+        if (email.trim() === "") {
+            alert("Please enter an email address.");
+            return false;
+        }
+
+        if (role.trim() === "") {
+            alert("Please enter a role.");
+            return false;
+        }
+
+        return true;
+    }
+</script>
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

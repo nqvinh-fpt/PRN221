@@ -1,0 +1,74 @@
+C:\FPT\PRN221\Test\pageNew\bin\Debug\net7.0-windows\pageNew.exe
+C:\FPT\PRN221\Test\pageNew\bin\Debug\net7.0-windows\pageNew.deps.json
+C:\FPT\PRN221\Test\pageNew\bin\Debug\net7.0-windows\pageNew.runtimeconfig.json
+C:\FPT\PRN221\Test\pageNew\bin\Debug\net7.0-windows\pageNew.dll
+C:\FPT\PRN221\Test\pageNew\bin\Debug\net7.0-windows\pageNew.pdb
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\Page1.g.cs
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\Page2.g.cs
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\App.g.cs
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew_MarkupCompile.cache
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew_MarkupCompile.lref
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\MainWindow.baml
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\Page1.baml
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\Page2.baml
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.g.resources
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.AssemblyInfo.cs
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.dll
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\refint\pageNew.dll
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.pdb
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\pageNew.genruntimeconfig.cache
+C:\FPT\PRN221\Test\pageNew\obj\Debug\net7.0-windows\ref\pageNew.dll
+C:\FPT\PRN221\Project\pageNew\bin\Debug\net7.0-windows\pageNew.exe
+C:\FPT\PRN221\Project\pageNew\bin\Debug\net7.0-windows\pageNew.deps.json
+C:\FPT\PRN221\Project\pageNew\bin\Debug\net7.0-windows\pageNew.runtimeconfig.json
+C:\FPT\PRN221\Project\pageNew\bin\Debug\net7.0-windows\pageNew.dll
+C:\FPT\PRN221\Project\pageNew\bin\Debug\net7.0-windows\pageNew.pdb
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\Page1.g.cs
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\Page2.g.cs
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\App.g.cs
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew_MarkupCompile.cache
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew_MarkupCompile.lref
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\MainWindow.baml
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\Page1.baml
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\Page2.baml
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.g.resources
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.AssemblyInfo.cs
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.dll
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\refint\pageNew.dll
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.pdb
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\pageNew.genruntimeconfig.cache
+C:\FPT\PRN221\Project\pageNew\obj\Debug\net7.0-windows\ref\pageNew.dll
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\bin\Debug\net7.0-windows\pageNew.exe
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\bin\Debug\net7.0-windows\pageNew.deps.json
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\bin\Debug\net7.0-windows\pageNew.runtimeconfig.json
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\bin\Debug\net7.0-windows\pageNew.dll
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\bin\Debug\net7.0-windows\pageNew.pdb
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\Page1.g.cs
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\Page2.g.cs
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew_MarkupCompile.cache
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew_MarkupCompile.lref
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\Page1.baml
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\Page2.baml
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew.g.resources
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew.AssemblyInfoInputs.cache
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew.AssemblyInfo.cs
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew.csproj.CoreCompileInputs.cache
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew.dll
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\refint\pageNew.dll
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew.pdb
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\pageNew.genruntimeconfig.cache
+C:\Users\vinh1\OneDrive\Máy tính\SUM2024\prn221\pageNew\obj\Debug\net7.0-windows\ref\pageNew.dll

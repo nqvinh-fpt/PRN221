@@ -1,0 +1,70 @@
+﻿@page
+@model Ha.Pages.Requirement1.EventModel
+@{
+    <h1>Events</h1>
+    
+    
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+
+                    Title
+
+                </th>
+                <th>
+
+                    Start Time
+
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Location
+                </th>
+                <th>
+
+                    Category
+
+                </th>
+                <th>Register</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.EventViewModels)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Event.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Event.StartTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Event.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Event.Location)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Event.CategoryId)
+                    </td>
+                    <td>
+                        @if (item.Event.Category != null)
+                        {
+                            @Html.DisplayFor(modelItem => item.Event.Category.CategoryName)
+                        }
+                    </td>
+                    <td>
+                        <a asp-page="/Requirement1/Register" asp-route-eventId="@item.Event.EventId">Register</a>
+                    </td>
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+    <script src="~/js/site.js"></script>
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+}

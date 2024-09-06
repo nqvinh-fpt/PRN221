@@ -1,0 +1,90 @@
+dotnet ef dbcontext scaffold "server =(local); database = PRN211_Ass1;uid=sa;pwd=123;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+dotnet ef dbcontext scaffold "server= LAPTOP-H8LUNFAT\MAYAO; database =Demo87;uid=sa;pwd=123; TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+---gen database----
+
+dotnet ef database drop
+
+dotnet ef migrations remove
+
+
+dotnet ef migrations add NewMigration
+
+dotnet ef database update
+-------------
+
+dotnet ef dbcontext scaffold Name=ConnectionStrings:Demo87DB Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+dotnet ef dbcontext scaffold "server= (local); database =PE_PRN_Fall2023B1;uid=sa;pwd=123; TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+
+context.Movies.Include(m=>m.Product).OrderBy(m=>m.Name).ToList();
+
+
+--force  ;TrustServerCertificate=True;Trusted_Connection=True;
+-----------------------------------------------
+dotnet tool install --global dotnet-ef
+----------------------------------------
+update model
+dotnet ef dbcontext scaffold "server =(local); database = MovieDB;uid=sa;pwd=123;" Microsoft.EntityFrameworkCore.SqlServer -o Models -f
+
+appsetting
+---------------------------------------------
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server =(local); database = SessionDBContext;uid=sa;pwd=123456;"
+  }
+}
+
+file context
+------------------
+var ConnectionString = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetConnectionString("DefaultConnection");
+optionsBuilder.UseSqlServer(ConnectionString);
+----DBContext
+                var config = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
+                optionsBuilder.UseSqlServer(config.GetConnectionString("MyCnn"));
+-----
+builder.Services.AddDbContext<MovieDBContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+----
+dotnet ef dbcontext scaffold "server =localhost; database = Project3_SE1631;uid=sa;pwd=123;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+hoặc dùng câu lệch này :
+
+dotnet ef dbcontext scaffold "server =(local); database = PE_PRN211_22FallB5;uid=sa;pwd=123;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+Nếu Database có sự thay đổi mà muốn update lại models đã sinh thì dùng lệch:
+dotnet ef dbcontext scaffold "server =localhost; database = MyDB2;uid=sa;pwd=123;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o Models -f  
+Trong 1 vài trường hợp bạn chỉ muốn lấy 1 vài class trong database thì dùng lệch:
+dotnet ef dbcontext scaffold "server =localhost; database = Northwind;uid=sa;pwd=123;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o Models -t class1
+
+----
+Text trong appsettings.json :
+
+{
+  "ConnectionStrings": {
+    "MyCnn": "server=localhost;database=MyDB2;uid=sa;pwd=123"
+  }
+}
+Với ADO nên sài như này
+
+{
+  "ConnectionStrings": {
+    "MyCnn": "server=localhost;database=PRN211DB;uid=sa;pwd=123;MultipleActiveResultSets=True"
+  }
+}
+Với câu Q2 PE nên dùng
+
+{
+  "ConnectionStrings": {
+    "MyCnn": "server=(local);database=MySaleDB;uid=sa;pwd=123;TrustServerCertificate=true"
+  }
+}
+
+---cấu hình program
+builder.Services.AddDbContext<LuyenPRN231Context>(
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("MyCnn")));
+builder.Services.AddCors();
+
+app.UseCors(builder=>builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());

@@ -1,0 +1,34 @@
+﻿@page
+@model Ha.Pages.Requirement1.RegisteredEventsModel
+@using Ha.Models
+
+<h1>Registered Events</h1>
+
+@if (Model.RegisteredEvents.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Start Time</th>
+                <th>Description</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var evt in Model.RegisteredEvents)
+            {
+                <tr>
+                    <td>@evt.Title</td>
+                    <td>@evt.StartTime</td>
+                    <td>@evt.Description</td>
+                    <td>@evt.Location</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No events registered.</p>
+}

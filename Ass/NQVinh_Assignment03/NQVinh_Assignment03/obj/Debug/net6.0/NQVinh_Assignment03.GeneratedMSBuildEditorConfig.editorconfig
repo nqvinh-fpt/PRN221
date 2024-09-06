@@ -1,0 +1,191 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NQVinh_Assignment03
+build_property.RootNamespace = NQVinh_Assignment03
+build_property.ProjectDir = D:\Spring2024\prn221\Ass\NQVinh_Assignment03\NQVinh_Assignment03\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Spring2024\prn221\Ass\NQVinh_Assignment03\NQVinh_Assignment03
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Ateendeess/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXRlZW5kZWVzc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Ateendeess/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXRlZW5kZWVzc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Ateendeess/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXRlZW5kZWVzc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Ateendeess/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXRlZW5kZWVzc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Ateendeess/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXRlZW5kZWVzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/EventCount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRDb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Events/EventClient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEV2ZW50Q2xpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Events/RegisteredUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXFJlZ2lzdGVyZWRVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Events/ViewCount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXFZpZXdDb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/AttendeeCountModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXEF0dGVuZGVlQ291bnRNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/ConfirmRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXENvbmZpcm1SZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/Event.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXEV2ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/RegisterEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXFJlZ2lzdGVyRXZlbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXFNpZ25Jbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXFNpZ25VcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Requirement1/UserUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVxdWlyZW1lbnQxXFVzZXJVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Success1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VjY2VzczEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/ViewCount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld0NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Spring2024/prn221/Ass/NQVinh_Assignment03/NQVinh_Assignment03/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tcv9jmwtem

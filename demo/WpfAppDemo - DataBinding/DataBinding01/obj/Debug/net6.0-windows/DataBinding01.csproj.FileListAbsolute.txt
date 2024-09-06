@@ -1,0 +1,43 @@
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.exe
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.deps.json
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.runtimeconfig.json
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.dll
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.pdb
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.csproj.AssemblyReference.cache
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\App.g.cs
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01_MarkupCompile.cache
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01_MarkupCompile.lref
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\MainWindow.baml
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.g.resources
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.AssemblyInfoInputs.cache
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.AssemblyInfo.cs
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.csproj.CoreCompileInputs.cache
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.dll
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\refint\DataBinding01.dll
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.pdb
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.genruntimeconfig.cache
+C:\FPT\PRN221\Project\WpfAppDemo\DataBinding01\obj\Debug\net6.0-windows\ref\DataBinding01.dll
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.exe
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.deps.json
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.runtimeconfig.json
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.dll
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\bin\Debug\net6.0-windows\DataBinding01.pdb
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\App.g.cs
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01_MarkupCompile.cache
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01_MarkupCompile.lref
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\MainWindow.baml
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.g.resources
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.AssemblyInfoInputs.cache
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.AssemblyInfo.cs
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.csproj.CoreCompileInputs.cache
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.dll
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\refint\DataBinding01.dll
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.pdb
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\DataBinding01.genruntimeconfig.cache
+D:\SUM2024\prn221\demo\WpfAppDemo - DataBinding\DataBinding01\obj\Debug\net6.0-windows\ref\DataBinding01.dll

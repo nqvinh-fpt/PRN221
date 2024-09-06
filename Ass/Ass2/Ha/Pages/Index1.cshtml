@@ -1,0 +1,57 @@
+﻿@page
+@model Ha.Pages.Index1Model
+<h1>Events</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                Count
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Events)
+        {
+            <tr>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @item.Attendees.Count
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                CategoryName
+            </th>
+            <th>
+                Count
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model.EventCategory)
+        {
+            <tr>
+                <td>
+                    @category.CategoryName
+                </td>
+                <td>
+                    <!-- Đếm số lượng sự kiện trong mỗi danh mục -->
+                    @category.Events.Count
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
